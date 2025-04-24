@@ -55,7 +55,7 @@
 		"gatsby-source-filesystem": "^3.2.0",
 		"gatsby-transformer-gitinfo": "^1.1.0",
 		"gatsby-transformer-remark": "^3.1.0",
-		"gatsby-transformer-sharp": "^3.2.0",
+		"gatsby-transformer-sharp": "^5.12.1",
 		"graphql-type-json": "^0.3.2",
 		"i18next": "^20.2.4",
 		"import": "^0.0.6",
