@@ -54,7 +54,7 @@
 		"gatsby-remark-unwrap-images": "^1.0.2",
 		"gatsby-source-filesystem": "^3.2.0",
 		"gatsby-transformer-gitinfo": "^1.1.0",
-		"gatsby-transformer-remark": "^3.1.0",
+		"gatsby-transformer-remark": "^6.0.0",
 		"gatsby-transformer-sharp": "^5.12.1",
 		"graphql-type-json": "^0.3.2",
 		"i18next": "^24.2.3",
